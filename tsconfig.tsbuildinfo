@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/ui/sonner.tsx","./src/components/ui/tooltip.tsx","./src/pages/AuthCallback.tsx","./src/pages/AuthError.tsx","./src/pages/Checklist.tsx","./src/pages/Index.tsx","./src/pages/ModuleDetail.tsx","./src/pages/Modules.tsx","./src/pages/Progress.tsx","./src/pages/VideoDetail.tsx"],"version":"5.9.3"}
